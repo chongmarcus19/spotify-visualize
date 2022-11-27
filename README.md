@@ -1,1 +1,1 @@
-# spotify-visualize
+# Spotify Visualize
