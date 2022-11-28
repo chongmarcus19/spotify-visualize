@@ -79,6 +79,11 @@ const GlobalStyle = createGlobalStyle`
     vertical-align: middle;
   }
 
+  footer {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+
   main {
     position: relative;
     padding: var(--spacing-xxl) 0;
