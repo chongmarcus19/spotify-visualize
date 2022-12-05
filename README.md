@@ -1,5 +1,5 @@
 # Spotify Visualize
-Note: Due to Spotify's updated developer policy. User's can only view the app (when hosted on heroku) when explicitly given permission.
+Note: Due to Spotify's updated developer policy, users can only view the app on heroku when explicitly given permission.
 Read more at: 
 https://developer.spotify.com/community/news/2021/05/27/improving-the-developer-and-user-experience-for-third-party-apps/
 
