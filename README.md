@@ -20,3 +20,5 @@
 4. Add config vars in Heroku app settings
 
 5. Push to Heroku
+
+## Screenshots
